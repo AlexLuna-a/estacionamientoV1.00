@@ -36,9 +36,6 @@ Route::group(['prefix'=>'usr'],function(){
     
     
 });
-/*aaaaaaaaaaaa;*/
-/*aaaaaaaaaaaa;*/
-//f30a726ac3fd343cf36c1327a8fb0feaae78cc05
 
 
 Route::group(['prefix'=>'est'],function(){
