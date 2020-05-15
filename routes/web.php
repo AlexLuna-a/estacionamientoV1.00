@@ -38,7 +38,11 @@ Route::group(['prefix'=>'usr'],function(){
 });
 /*aaaaaaaaaaaa;*/
 /*aaaaaaaaaaaa;*/
+/*esto esta editado desde fuera de netbeans
 
+
+
+*/
 
 
 Route::group(['prefix'=>'est'],function(){
