@@ -38,6 +38,8 @@ Route::group(['prefix'=>'usr'],function(){
 });
 
 
+
+
 Route::group(['prefix'=>'est'],function(){
     Route::get('/', 'estacionamientoController@index');
     Route::get('show/{id}', 'estacionamientoController@show');
